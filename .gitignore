@@ -1,0 +1,17 @@
+.idea/
+.idea
+db.sqlite3
+venv/
+mexclusive/settings.py
+media/
+.idea/
+main/__pycache__/
+main/migrations/
+__pycache__
+### VisualStudioCode ###
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
